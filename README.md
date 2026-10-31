@@ -4,7 +4,6 @@
 
 <br>
 
-`software engineering student` · `developer in progress`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D0B12?style=flat-square&logo=github&logoColor=C084FC)](https://github.com/EduardoKrautchuk)
 
